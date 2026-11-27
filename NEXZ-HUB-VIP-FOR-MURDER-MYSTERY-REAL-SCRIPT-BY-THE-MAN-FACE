@@ -1,6 +1,3 @@
-# NEXZ-hub-vip-for-murder-Mystery
-Not the use all games.
--- nexz hub vip | Murder Mystery (MM2)
 local Players = cloneref and cloneref(game:GetService("Players")) or game:GetService("Players")
 local RunService = game:GetService("RunService")
 local UIS = game:GetService("UserInputService")
